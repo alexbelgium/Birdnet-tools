@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+https://github.com/alexbelgium/Birdnet-tools/edit/main/autogain.py
 Dynamic Microphone Gain Adjustment Script with Interactive Calibration,
 Self‑Modification, No‑Signal Reboot Logic, and a Test Mode for Real‑Time RMS Line Graph using plotext
 
